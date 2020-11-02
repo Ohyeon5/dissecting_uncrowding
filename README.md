@@ -1,4 +1,4 @@
-# Dissecting_uncrowding
-Codes and model results 
+# Dissecting_(un)crowding
 
-Laminart model and TTM model, model results
+Model and stimuli details for Dissecting (Un)crowding by Oh-hyeon Choung, Alban Bornet, Adrien Doerig, and Michael H. Herzog (2020)
+
