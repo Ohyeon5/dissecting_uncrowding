@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="stims.svg">
   <defs
      id="defs2">
@@ -86,9 +86,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69999999"
-     inkscape:cx="2169.598"
-     inkscape:cy="990.22051"
+     inkscape:zoom="1.4"
+     inkscape:cx="865.33379"
+     inkscape:cy="557.43761"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -293,7 +293,7 @@
          x="-0.94494104"
          y="353.69641"
          style="stroke-width:0.26458332"
-         id="tspan881">  </tspan><tspan
+         id="tspan881" /><tspan
          sodipodi:role="line"
          x="-0.94494104"
          y="359.87003"
@@ -1321,57 +1321,6 @@
       </g>
     </g>
     <g
-       id="g1430"
-       transform="translate(185.24998,-117.33264)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_3_h_i_L.png">
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30412564;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect1426"
-         width="154.78125"
-         height="50.799999"
-         x="0"
-         y="246.2" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         id="circle1428"
-         cx="2.3812878"
-         cy="271.60001"
-         r="0.4252232" />
-    </g>
-    <g
-       transform="translate(199.64252,-112.57014)"
-       id="g1438"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_3_h_i_L.png">
-      <g
-         transform="translate(-0.26458334)"
-         id="g1436">
-        <path
-           inkscape:connector-curvature="0"
-           id="path1432"
-           d="m 63.791835,261.28125 v 5.29167"
-           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 65.114752,267.10208 v 5.29167"
-           id="path1434"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <rect
-       y="145.93298"
-       x="255.4969"
-       height="16.668743"
-       width="16.668745"
-       id="rect1440"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.26459071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_3_h_i_L.png" />
-    <g
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        id="g1456"
@@ -2021,7 +1970,7 @@
          d="m -99.383988,83.642536 c 5.64472,0 11.289174,0 16.933333,0"
          style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ffffff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m -99.383988,100.31129 c 5.64472,0 11.289174,0 16.933333,0"
          id="path1958"
          inkscape:connector-curvature="0"
@@ -2358,183 +2307,6 @@
            d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
            style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
-    </g>
-    <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       transform="translate(18.70887,-117.33264)"
-       id="g1412"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_5_h_i_L.png">
-      <rect
-         y="246.2"
-         x="0"
-         height="50.799999"
-         width="154.78125"
-         id="rect1408"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30412564;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-      <circle
-         r="0.4252232"
-         cy="271.60001"
-         cx="2.3812878"
-         id="circle1410"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-    </g>
-    <g
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       id="g1420"
-       transform="translate(33.10141,-112.57014)"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_5_h_i_L.png">
-      <g
-         id="g1418"
-         transform="translate(-0.26458334)">
-        <path
-           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 63.791835,261.28125 v 5.29167"
-           id="path1414"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path1416"
-           d="m 65.114752,267.10208 v 5.29167"
-           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-    </g>
-    <rect
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.26459071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       id="rect1422"
-       width="16.668745"
-       height="16.668743"
-       x="88.955803"
-       y="145.93298"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_5_h_i_L.png" />
-    <g
-       id="g2118"
-       transform="translate(166.64395)"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_5_h_i_L.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
-         inkscape:path-effect="#path-effect1874-9"
-         inkscape:connector-curvature="0"
-         id="path2114"
-         d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         id="path2116"
-         inkscape:connector-curvature="0"
-         inkscape:path-effect="#path-effect2076"
-         inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
-    </g>
-    <g
-       transform="translate(145.21271)"
-       id="g2124"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_5_h_i_L.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         id="path2120"
-         inkscape:connector-curvature="0"
-         inkscape:path-effect="#path-effect1874-9"
-         inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
-      <path
-         inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
-         inkscape:path-effect="#path-effect2076"
-         inkscape:connector-curvature="0"
-         id="path2122"
-         d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(209.77104)"
-       id="g2130"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_5_h_i_L.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         id="path2126"
-         inkscape:connector-curvature="0"
-         inkscape:path-effect="#path-effect1874-9"
-         inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
-      <path
-         inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
-         inkscape:path-effect="#path-effect2076"
-         inkscape:connector-curvature="0"
-         id="path2128"
-         d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="g2136"
-       transform="translate(231.20229)"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_5_h_i_L.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
-         inkscape:path-effect="#path-effect1874-9"
-         inkscape:connector-curvature="0"
-         id="path2132"
-         d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         id="path2134"
-         inkscape:connector-curvature="0"
-         inkscape:path-effect="#path-effect2076"
-         inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
-    </g>
-    <g
-       id="g2156"
-       transform="translate(333.18505)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_3_h_i_L.png">
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         id="path2152"
-         inkscape:connector-curvature="0"
-         inkscape:path-effect="#path-effect1874-9"
-         inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
-      <path
-         inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
-         inkscape:path-effect="#path-effect2076"
-         inkscape:connector-curvature="0"
-         id="path2154"
-         d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="g2168"
-       transform="translate(376.31214)"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       inkscape:export-filename="C:\Users\pc_Ohyeon\Desktop\TTM_mogrels\TTM_OH\STIMULI\HERZOG_L\subsquares\_squares_3_h_i_L.png">
-      <path
-         inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
-         inkscape:path-effect="#path-effect1874-9"
-         inkscape:connector-curvature="0"
-         id="path2164"
-         d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
-         id="path2166"
-         inkscape:connector-curvature="0"
-         inkscape:path-effect="#path-effect2076"
-         inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
     </g>
     <g
        id="g2274"
@@ -3039,6 +2811,236 @@
          id="path2448"
          d="m -99.383988,100.31129 c 5.64472,0 11.289174,0 16.933333,0"
          style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1323"
+       transform="translate(123.64911)" />
+    <g
+       id="g1483">
+      <g
+         id="g1295"
+         transform="translate(18.70887,-117.33264)"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30412564;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect1291"
+           width="154.78125"
+           height="50.799999"
+           x="0"
+           y="246.2" />
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle1293"
+           cx="2.3812878"
+           cy="271.60001"
+           r="0.4252232" />
+      </g>
+      <g
+         transform="translate(33.10141,-112.57014)"
+         id="g1303"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
+        <g
+           transform="translate(-0.26458334)"
+           id="g1301">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1297"
+             d="m 63.791835,261.28125 v 5.29167"
+             style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 65.114752,267.10208 v 5.29167"
+             id="path1299"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <rect
+         y="145.93298"
+         x="88.955803"
+         height="16.668743"
+         width="16.668745"
+         id="rect1305"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.26459071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <g
+         transform="translate(166.77619)"
+         id="g1311">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           id="path1307"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect1874-9"
+           inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
+        <path
+           inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
+           inkscape:path-effect="#path-effect2076"
+           inkscape:connector-curvature="0"
+           id="path1309"
+           d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g1317"
+         transform="translate(145.34495)">
+        <path
+           inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
+           inkscape:path-effect="#path-effect1874-9"
+           inkscape:connector-curvature="0"
+           id="path1313"
+           d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           id="path1315"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect2076"
+           inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
+      </g>
+      <g
+         id="g1329"
+         transform="translate(209.90328)">
+        <path
+           inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
+           inkscape:path-effect="#path-effect1874-9"
+           inkscape:connector-curvature="0"
+           id="path1325"
+           d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           id="path1327"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect2076"
+           inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
+      </g>
+      <g
+         transform="translate(231.33453)"
+         id="g1335">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           id="path1331"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect1874-9"
+           inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
+        <path
+           inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
+           inkscape:path-effect="#path-effect2076"
+           inkscape:connector-curvature="0"
+           id="path1333"
+           d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(252.76577)"
+       id="g1341" />
+    <g
+       transform="translate(333.3173)"
+       id="g1397"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         transform="translate(-148.06732,-117.33264)"
+         id="g1349">
+        <rect
+           y="246.2"
+           x="0"
+           height="50.799999"
+           width="154.78125"
+           id="rect1345"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30412564;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+        <circle
+           r="0.4252232"
+           cy="271.60001"
+           cx="2.3812878"
+           id="circle1347"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16500001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      </g>
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         id="g1357"
+         transform="translate(-133.67478,-112.57014)">
+        <g
+           id="g1355"
+           transform="translate(-0.26458334)">
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 63.791835,261.28125 v 5.29167"
+             id="path1351"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1353"
+             d="m 65.114752,267.10208 v 5.29167"
+             style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.26459071;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect1359"
+         width="16.668745"
+         height="16.668743"
+         x="-77.820389"
+         y="145.93298" />
+      <g
+         id="g1365">
+        <path
+           inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
+           inkscape:path-effect="#path-effect1874-9"
+           inkscape:connector-curvature="0"
+           id="path1361"
+           d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           id="path1363"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect2076"
+           inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
+      </g>
+      <g
+         transform="translate(-21.431244)"
+         id="g1371" />
+      <g
+         id="g1377"
+         transform="translate(-43.127076)" />
+      <g
+         transform="translate(43.127087)"
+         id="g1383">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -82.582945,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           id="path1379"
+           inkscape:connector-curvature="0"
+           inkscape:path-effect="#path-effect1874-9"
+           inkscape:original-d="m -82.582945,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334" />
+        <path
+           inkscape:original-d="m -99.251697,145.80068 c 2.7e-4,5.64472 2.7e-4,11.28918 0,16.93334"
+           inkscape:path-effect="#path-effect2076"
+           inkscape:connector-curvature="0"
+           id="path1381"
+           d="m -99.251697,145.80068 c 0,5.64472 0,11.28918 0,16.93334"
+           style="fill:none;stroke:#ffffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g1389"
+         transform="translate(64.558338)" />
+      <g
+         transform="translate(85.989582)"
+         id="g1395" />
     </g>
   </g>
 </svg>
